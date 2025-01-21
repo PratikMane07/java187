@@ -12,4 +12,9 @@ public class Test {
 		System.out.println("this is sub method");
 	}
 
+	public void m3()
+	{
+		System.out.println("this is m3 method");
+	}
+
 }
