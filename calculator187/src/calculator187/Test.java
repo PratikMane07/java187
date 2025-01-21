@@ -16,5 +16,10 @@ public class Test {
 	{
 		System.out.println("this is m3 method");
 	}
+	
+	public void m4()
+	{
+	   System.out.println("this is m4 method");	
+	}
 
 }
